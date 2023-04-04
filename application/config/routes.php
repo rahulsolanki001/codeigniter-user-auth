@@ -57,5 +57,5 @@ $route['translate_uri_dashes'] = FALSE;
 $route['api']='Api/index';
 $route['api/register']='Api/register';
 $route['api/login']='Api/login';
-$route['api/dashboard']='API/dashboard';
+$route['api/dashboard']='Api/dashboard';
 $route['api/logout']='Api/logout';
